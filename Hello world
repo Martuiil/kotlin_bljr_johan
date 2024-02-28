@@ -1,2 +1,0 @@
-// introduction
-fun start(): String = "OK" // return string
